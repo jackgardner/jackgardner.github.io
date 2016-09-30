@@ -1,0 +1,52 @@
+
+body {
+  background-color: #fff;
+  color: #000;
+}
+
+
+
+code {
+  color: #aaa;
+}
+
+
+.skillz > li {
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+
+
+h1 {
+  color: #222;
+
+}
+
+
+
+h2 {
+  color: #a00;
+}
+
+
+h3 {
+  color: #ccc;
+}
+
+
+a:hover {
+  color:#39f
+}
+
+#webaddress {
+
+  color: #ccc;
+
+}
+
+
+
+em {
+  color: #2d4e5e
+}

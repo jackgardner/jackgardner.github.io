@@ -13,7 +13,7 @@ full-stack software engineer
 </div>
 
 ## Currently...
-Full-stack contract software engineer at a stealth-mode fintech startup, available 2017.
+Full-stack contract software engineer at a stealth-mode fintech startup, available from April 2017.
 
 ## Technical Skills
 <ul class="skillz">
@@ -31,7 +31,7 @@ Full-stack contract software engineer at a stealth-mode fintech startup, availab
 ## Experience
 
 `Nov 2016 - Feb 2017`
-Velocity Mobile Ltd
+*Velocity Mobile Ltd*
 
 Senior Software Engineer
 

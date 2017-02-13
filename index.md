@@ -13,14 +13,15 @@ full-stack software engineer
 </div>
 
 ## Currently...
-Full-stack software engineer at Advance Global Capital.  We develop cloud-based supply chain finance and risk analytics solutions aimed primarily at small business in emerging markets.
+Full-stack contract software engineer at a stealth-mode fintech startup, available 2017.
 
 ## Technical Skills
 <ul class="skillz">
   <li>node.js</li>
   <li>git</li>
   <li>react</li>
-  <li>angular</li>
+  <li>kubernetes</li>
+  <li>d3</li>
   <li>javascript</li>
   <li>go</li>
   <li>docker</li>
@@ -29,10 +30,24 @@ Full-stack software engineer at Advance Global Capital.  We develop cloud-based 
 
 ## Experience
 
-`Sep 2015 - Current`
+`Nov 2016 - Feb 2017`
+Velocity Mobile Ltd
+
+Senior Software Engineer
+
+<ul class="skillz">
+  <li>kubernetes</li>
+  <li>docker</li>
+  <li>golang</li>
+  <li>node</li>
+</ul>
+
+`Sep 2015 - Nov 2016`
 __Advance Global Capital Ltd__
 
 Lead Software Engineer
+
+Developing cloud-based supply chain finance and risk analytics solutions aimed primarily at small business in emerging markets.
 
 <ul class="skillz">
     <li>kubernetes</li>

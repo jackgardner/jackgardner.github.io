@@ -13,7 +13,7 @@ full-stack software engineer
 </div>
 
 ## Currently...
-Full-stack contract software engineer at a stealth-mode fintech startup, available from April 2017.
+Lead software engineer at Insure A Thing
 
 ## Technical Skills
 <ul class="skillz">
@@ -29,6 +29,20 @@ Full-stack contract software engineer at a stealth-mode fintech startup, availab
 </ul>
 
 ## Experience
+
+`Nov 2016 - Feb 2017`
+*Insure A Thing Ltd*
+
+Lead Software Engineer
+
+<ul class="skillz">
+  <li>kubernetes</li>
+  <li>docker</li>
+  <li>golang</li>
+  <li>node</li>
+  <li>grpc</li>
+  <li>elasticsearch</li>
+</ul>
 
 `Nov 2016 - Feb 2017`
 *Velocity Mobile Ltd*

@@ -30,7 +30,7 @@ Lead software engineer at Insure A Thing
 
 ## Experience
 
-`Nov 2016 - Feb 2017`
+`April 2017 - current`
 *Insure A Thing Ltd*
 
 Lead Software Engineer

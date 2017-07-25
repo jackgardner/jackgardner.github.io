@@ -17,12 +17,10 @@ Lead software engineer at Insure A Thing
 
 ## Technical Skills
 <ul class="skillz">
-  <li>node.js</li>
-  <li>git</li>
+  <li>node</li>
   <li>react</li>
   <li>kubernetes</li>
   <li>d3</li>
-  <li>javascript</li>
   <li>go</li>
   <li>docker</li>
   <li>kafka</li>
@@ -31,16 +29,18 @@ Lead software engineer at Insure A Thing
 ## Experience
 
 `April 2017 - current`
-*Insure A Thing Ltd*
+*Insure A Thing*
 
 Lead Software Engineer
+
+Working closely with the CTO to build a mobile-first insurance platform from the ground up. 
 
 <ul class="skillz">
   <li>kubernetes</li>
   <li>docker</li>
   <li>golang</li>
   <li>node</li>
-  <li>grpc</li>
+  <li>mysql</li>
   <li>elasticsearch</li>
 </ul>
 
@@ -54,6 +54,7 @@ Senior Software Engineer
   <li>docker</li>
   <li>golang</li>
   <li>node</li>
+  <li>postgresql</li>
 </ul>
 
 `Sep 2015 - Nov 2016`
